@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hibernate-Projekt/Hibernate-Projekt.iml" filepath="$PROJECT_DIR$/Hibernate-Projekt/Hibernate-Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Prototyp/Prototyp.iml" filepath="$PROJECT_DIR$/Prototyp/Prototyp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/hhn-vae-abgabe.iml" filepath="$PROJECT_DIR$/.idea/hhn-vae-abgabe.iml" />
+    </modules>
+  </component>
+</project>
